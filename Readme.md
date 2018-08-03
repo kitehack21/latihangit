@@ -57,6 +57,6 @@ One | Two | Three
 40 | 50 | 60
 70 | 80 | 90
 
-Link Video
+Add link to image 
 
 [![Video Name](https://i.ytimg.com/vi/d_T5P-zIIAs/maxresdefault.jpg)](https://www.youtube.com/watch?v=d_T5P-zIIAs)
