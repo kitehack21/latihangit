@@ -49,7 +49,6 @@ emojis (only shows when uploaded)
     //add javascript to ```
     var potato = "yum";
 ```
-```
 <table>
     <thead>
         <tr>
@@ -76,7 +75,6 @@ emojis (only shows when uploaded)
         </tr>
     </tbody>
 </table>
-```
 
 ## The best list(?)
 One | Two | Three
