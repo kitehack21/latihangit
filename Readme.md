@@ -43,6 +43,7 @@ Best quotes:
 >뭘 봐
 
 emojis (only shows when uploaded)
+:thinking:
 :worried:
 
 ```javascript 
