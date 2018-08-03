@@ -46,9 +46,13 @@ emojis (only shows when uploaded)
 :worried:
 
 ```javascript 
+    //make codeblock with ```code```
     //add javascript to ```
     var potato = "yum";
 ```
+
+add html to markdown(can make complicated tables)
+
 <table>
     <thead>
         <tr>
@@ -76,7 +80,7 @@ emojis (only shows when uploaded)
     </tbody>
 </table>
 
-## The best list(?)
+## The best list(?) using markdown notation (only simple tables)
 One | Two | Three
 ---|---|---
 10 | 20 | 30
